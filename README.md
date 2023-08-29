@@ -83,7 +83,7 @@ The web application provides a user-friendly interface for tumor detection:
 Launch the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 Open your web browser and navigate to the provided URL.
 
