@@ -5,7 +5,7 @@ This project demonstrates the application of computer vision in healthcare by de
 in brain MRI images. The project utilizes the Detectron2 framework, focusing on the 
 COCO-Detection/retinanet baseline model, to achieve accurate tumor detection. Additionally, the 
 project is presented as a web application using Streamlit for user-friendly interaction.
-![](https://github.com/sevdaimany/Tumor-Detection-on-Brain-MRI/blob/master/screenshot.png)
+![](https://github.com/sevdaimany/Tumor-Detection-Brain-MRI/blob/master/screenshot.png)
 
 
 ## Table of Contents
@@ -50,14 +50,14 @@ are saved in the `/train/output/`directory, eliminating the need for retraining.
 training progress, such as loss and validation plots, can be found here as well. The selected 
 model weights for deployment were taken from epoch number 3000 based on the provided training 
 and validation plots.
-![](https://github.com/sevdaimany/Tumor-Detection-on-Brain-MRI/blob/master/train/train_val_loss.png)
+![](https://github.com/sevdaimany/Tumor-Detection-Brain-MRI/blob/master/train/train_val_loss.png)
 ## Installation
 To set up and run the Tumor Detection project locally, follow these steps:
 
  Clone the repository:
 
 ```bash
-git clone https://github.com/sevdaimany/Tumor-Detection-on-Brain-MRI
+git clone https://github.com/sevdaimany/Tumor-Detection-Brain-MRI
 cd Tumor-Detection-on-Brain-MRI
 ```
 Create a virtual environment (recommended):
