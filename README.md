@@ -74,6 +74,8 @@ pip install -r requirements.txt
 
 Download the dataset from the provided link and place the images in the appropriate 
 data/train/imgs, data/train/anns, data/val/imgs and data/val/anns folders.
+
+Download the trained model dataset from [here](https://drive.google.com/file/d/1-BfYQ5X7UdGQXgy1smfpI1oylWuxeuVW/view?usp=sharing) and put it in train/output folder.
 ## Web Application
 
 The web application provides a user-friendly interface for tumor detection:
