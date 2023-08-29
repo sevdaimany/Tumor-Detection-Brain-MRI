@@ -58,7 +58,7 @@ To set up and run the Tumor Detection project locally, follow these steps:
 
 ```bash
 git clone https://github.com/sevdaimany/Tumor-Detection-Brain-MRI
-cd Tumor-Detection-on-Brain-MRI
+cd Tumor-Detection-Brain-MRI
 ```
 Create a virtual environment (recommended):
 
